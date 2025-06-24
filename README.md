@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sampurn!
 
-🎓 1st-year CS student @ RGPV  
+🎓 B.Tech student majoring in Data Science @ RGPV  
 💻 Aspiring Full Stack MERN Developer  
 🌐 Future Web3 Engineer in the making
 
