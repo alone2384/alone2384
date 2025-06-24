@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Sampurn!
 
-<!--
-**alone2384/alone2384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st-year CS student @ RGPV  
+💻 Aspiring Full Stack MERN Developer  
+🌐 Future Web3 Engineer in the making
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- React ⚛️ | Node.js + Express 🔧 | MongoDB 🍃
+- DSA & Problem Solving 💡
+
+🔗 [LeetCode](https://leetcode.com/u/Alone_0503/)
+
+---
+
+## 🎯 Goal
+Become a **Full Stack MERN Developer** and build scalable, dynamic web apps.
+
+---
+
+## ✨ Fun Bits
+- Dark mode always 🌑  
+- I debug like it's a boss fight 👾  
+- Love clean UI and clean code 🧼
+
+---
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=alone2384&show_icons=true&theme=dark)
+
+---
